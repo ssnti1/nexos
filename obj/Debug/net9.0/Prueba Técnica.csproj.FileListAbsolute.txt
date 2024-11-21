@@ -1,0 +1,14 @@
+C:\Users\santi\OneDrive\Desktop\Prueba Técnica\bin\Debug\net9.0\Prueba Técnica.exe
+C:\Users\santi\OneDrive\Desktop\Prueba Técnica\bin\Debug\net9.0\Prueba Técnica.deps.json
+C:\Users\santi\OneDrive\Desktop\Prueba Técnica\bin\Debug\net9.0\Prueba Técnica.runtimeconfig.json
+C:\Users\santi\OneDrive\Desktop\Prueba Técnica\bin\Debug\net9.0\Prueba Técnica.dll
+C:\Users\santi\OneDrive\Desktop\Prueba Técnica\bin\Debug\net9.0\Prueba Técnica.pdb
+C:\Users\santi\OneDrive\Desktop\Prueba Técnica\obj\Debug\net9.0\Prueba Técnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Desktop\Prueba Técnica\obj\Debug\net9.0\Prueba Técnica.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Desktop\Prueba Técnica\obj\Debug\net9.0\Prueba Técnica.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Desktop\Prueba Técnica\obj\Debug\net9.0\Prueba Técnica.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\Prueba Técnica\obj\Debug\net9.0\Prueba Técnica.dll
+C:\Users\santi\OneDrive\Desktop\Prueba Técnica\obj\Debug\net9.0\refint\Prueba Técnica.dll
+C:\Users\santi\OneDrive\Desktop\Prueba Técnica\obj\Debug\net9.0\Prueba Técnica.pdb
+C:\Users\santi\OneDrive\Desktop\Prueba Técnica\obj\Debug\net9.0\Prueba Técnica.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Desktop\Prueba Técnica\obj\Debug\net9.0\ref\Prueba Técnica.dll
